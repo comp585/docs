@@ -9,7 +9,7 @@
     "prepare": "gitbook install",
 		"build": "gitbook build",
     "watch": "npm run prepare && gitbook serve",
-    "publish": "npm run clean && npm run build && cd _book && git init && git commit --allow-empty -m 'update book' && git checkout -b gh-pages && touch .nojekyll && git add . && git commit -am 'update book' && git push git@github.com:comp585/docs gh-pages --force"
+    "publish-docs": "npm run clean && npm run build && cd _book && git init && git commit --allow-empty -m 'update book' && git checkout -b gh-pages && touch .nojekyll && git add . && git commit -am 'update book' && git push git@github.com:comp585/docs gh-pages --force"
   },
   "author": "Dong Yeop Lee",
   "license": "ISC",
