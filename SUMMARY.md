@@ -6,3 +6,4 @@
 * [Game Overview](design/overview.md)
 * [Gameplay](design/gameplay.md)
 * [Mechanics](design/mechanics.md)
+* [Story and Narrative](design/story.md)
