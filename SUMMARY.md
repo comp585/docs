@@ -7,3 +7,4 @@
 * [Gameplay](design/gameplay.md)
 * [Mechanics](design/mechanics.md)
 * [Story and Narrative](design/story.md)
+* [Game World](design/gameworld.md)
