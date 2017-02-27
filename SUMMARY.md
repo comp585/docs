@@ -4,3 +4,4 @@
 * [Design Document](design.md)
 * [Title Page](design/title.md)
 * [Game Overview](design/overview.md)
+* [Gameplay](design/gameplay.md)
