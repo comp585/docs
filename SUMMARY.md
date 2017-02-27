@@ -10,3 +10,4 @@
 * [Game World](design/gameworld.md)
 * [Characters](design/characters.md)
 * [Levels](design/levels.md)
+* [Interface](design/interface.md)
