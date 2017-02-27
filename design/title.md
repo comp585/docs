@@ -1,9 +1,9 @@
 # Title Page
 
-1. Game Name
+### Game Name
 
-2. Tag line
+### Tag line
 
-3. Team
+### Team
 
-4. Date of last update
+### Date of last update

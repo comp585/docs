@@ -8,6 +8,6 @@
 	5. Relevance to the story
 	6. Relationship to other characters
 
-2. Artificial Intelligence Use in Opponent and Enemy
+### Artificial Intelligence Use in Opponent and Enemy
 
-3. Non-combat and Friendly Characters
+### Non-combat and Friendly Characters
