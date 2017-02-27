@@ -8,3 +8,4 @@
 * [Mechanics](design/mechanics.md)
 * [Story and Narrative](design/story.md)
 * [Game World](design/gameworld.md)
+* [Characters](design/characters.md)
