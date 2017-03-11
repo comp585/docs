@@ -2,7 +2,10 @@
 
 ### Rules
 Include both implicit and explicit rules.
-
+- Teller and investigator have unlimited time to elaborate the story or ask follow up questions respectively.
+- If investigator is able to guess correctly if the teller is telling the truth or lie, the teller has to remain in the hot seat.
+- If the investigator guesses incorrectly, he/she takes the role of the teller.
+- The first player to remain in the hot seat three times in a row loses.
 
 
 ### Model of the game universe.
@@ -11,6 +14,8 @@ interact?
 
 ### Physics
 How does the physical universe work?
+
+N/A
 
 ### Economy
 What is the economy of the game? How does it work?
@@ -35,6 +40,7 @@ what means of communication are used.
 
 ### Combat
 If there is combat or even conflict, how is this specifically modeled?
+
 N/A
 
 ### Screen Flow
