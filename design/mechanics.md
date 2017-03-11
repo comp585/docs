@@ -50,12 +50,13 @@ of each screen.
 ### Game Options
 What are the options and how do they affect game play?
 Flow of Gameplay:
-- Listener: Choose the topic for the Teller to talk about.
+- Investigator: Choose the topic for the teller to talk about.
 - Teller: Receives instructions on whether to lie or tell the truth.
-- Both: Receives question
-- Teller: Answers the question
-- Listener: Decides if it was true or false.
-
+- Both: Question revealed.
+- Teller: Answers the question.
+- Investigator: Decides if it was true or false.
+- If investigator is correct, teller remains in the hot seat, otherwise roles switched.
+- Repeat until one player is on the hot seat three times consecutively.
 
 
 ### Replaying and saving
