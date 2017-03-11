@@ -1,9 +1,9 @@
 # Title Page
 
 ### Game Name
+Hot Seat
 
 ### Tag line
-
 
 ### Team
 - Dong Yeop Lee
@@ -12,4 +12,4 @@
 - Sam McCormick
 
 ### Date of last update
-2/27/17
+3/11/17
