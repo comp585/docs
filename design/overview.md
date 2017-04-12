@@ -3,8 +3,8 @@
 ### Game Concept
 - Player chooses a topic and receives a question
 - Have to tell lie or truth.
-- Other player has to evaluate whehter player is telling truth.
-  - Can ask followup questions.
+- Other player has to evaluate whether player is telling truth.
+  - Can ask follow up questions.
 
 ### Target Audience
 18 - 30 year olds using online dating platforms.
@@ -21,7 +21,7 @@ intended social impact.
 
 ### Look and Feel
 What is the basic look and feel of the game? What is the visual style?
-- Soft asethetic with warm colors.
+- Soft aesthetic with warm colors.
 - No timer.
 - Similar to [Heads Up](https://itunes.apple.com/us/app/heads-up/id623592465?mt=8).
 - [Card design](https://tinycards.duolingo.com/) for questions.

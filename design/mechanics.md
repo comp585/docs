@@ -36,7 +36,7 @@ How to pick them up and move them.
 Including whatever switches and buttons are used, interacting with objects, and
 what means of communication are used.
 - Cards are touched to activate a question pertaining to a specific topic.
-- Bars are used to evaluate the teller's authencity in their answers.
+- Bars are used to evaluate the teller's authenticity in their answers.
 
 ### Combat
 If there is combat or even conflict, how is this specifically modeled?
@@ -46,6 +46,8 @@ N/A
 ### Screen Flow
 How each screen is related to every other and a description of the purpose
 of each screen.
+
+![](../img/flow.png)
 
 ### Game Options
 What are the options and how do they affect game play?
