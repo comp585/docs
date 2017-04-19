@@ -10,3 +10,4 @@
 * [Characters](design/characters.md)
 * [Levels](design/levels.md)
 * [Interface](design/interface.md)
+* [Privacy](privacy.md)
