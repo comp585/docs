@@ -7,7 +7,7 @@
   - Can ask follow up questions.
 
 ### Target Audience
-18 - 30 year olds using online dating platforms.
+18 - 30 year olds wanting to know each other better.
 
 ### Genre(s)
 Casual, strategy, multiplayer, roleplay.
@@ -21,10 +21,9 @@ intended social impact.
 
 ### Look and Feel
 What is the basic look and feel of the game? What is the visual style?
-- Soft aesthetic with warm colors.
+- Recognizable Facebook Messenger environment.
 - No timer.
-- Similar to [Heads Up](https://itunes.apple.com/us/app/heads-up/id623592465?mt=8).
-- [Card design](https://tinycards.duolingo.com/) for questions.
+- Fun game icons to represent players, question topics, and game mechanics.
 
 ### Intended Use
 How will the game be inserted into a pedagogical scenario or how will it
