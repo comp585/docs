@@ -4,6 +4,7 @@
 Hot Seat
 
 ### Tag line
+Warm Intros
 
 ### Team
 - Dong Yeop Lee
@@ -12,4 +13,4 @@ Hot Seat
 - Sam McCormick
 
 ### Date of last update
-4/11/17
+4/21/17
