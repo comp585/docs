@@ -24,7 +24,7 @@ What is the basic look and feel of the game? What is the visual style?
 - Recognizable Facebook Messenger environment.
 - No timer.
 - Fun game icons to represent players, question topics, and game mechanics.
-
+![](../img/gamepiecechoice.PNG)
 ### Intended Use
 How will the game be inserted into a pedagogical scenario or how will it
 be used in training, therapy, rehabilitation, etc
