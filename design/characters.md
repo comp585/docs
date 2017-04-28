@@ -5,14 +5,14 @@ N/A
 ### Non-combat and Friendly Characters
 #### Bot
 1. Back story
-- N/A
+    - N/A
 2. Personality
-- Friendly
+    - Friendly
 3. Appearance
-- N/A
+    - N/A
 4. Abilities
-- Provides user with useful questions that could be used in a variety of circumstances(on a date, in an interview, etc.).
+    - Provides user with useful questions that could be used in a variety of circumstances (on a date, in an interview, etc.).
 5. Relevance to the story
-- N/A
+    - N/A
 6. Relationship to other characters
-- N/A
+    - N/A
