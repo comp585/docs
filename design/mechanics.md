@@ -3,14 +3,19 @@
 ### Rules
 Include both implicit and explicit rules.
 - Every player must choose a game piece.
+- Previous teller must choose topic.
+![](../img/topicselection.png)
 - The teller should press hide when secretly shown their directions.
+![](../img/hide.PNG)
 - The teller should show the question to all other players. 
 - Teller and investigator(s) have unlimited time to elaborate the story or ask follow up questions respectively.
 - If there are more than two players, the investigators must work together to come to a consensus about whether the teller is telling the truth or lying. Then the teller will input their guess.
+![](../img/truthverdict.png)
 - If the investigator(s) are able to guess correctly if the teller is telling the truth or lie, the investgator(s) earn a point.
 - If the investigator(s) guess incorrectly, the teller gets a point.
 - After the investigator(s) guess, a new player is placed on the hot seat and becomes the teller.
 - The previous teller gets to choose the next topic for the new teller to answer.
+![](../img/roundview.PNG)
 - The first player to achieve a set number of points(number of players + 1) wins.
 
 ### Model of the game universe.
