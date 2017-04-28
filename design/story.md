@@ -1,10 +1,10 @@
 # Story and Narrative
 
 ### Back story
-
+N/A
 ### Plot elements
-
+N/A
 ### Game story progression
-
+N/A
 ### Cut scenes
-Descriptions include the actors, the setting, and the storyboard or script.
+- GIFs between various game states.
