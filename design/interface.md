@@ -30,4 +30,4 @@ commands?
 
 ### Help System
 - Restart bot button at bottom launches a tutorial before a new game to help the user understand the game logic.
-![](../img/getstarted.PNG)
+![](../img/restartbot.PNG)
