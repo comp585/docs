@@ -1,5 +1,5 @@
 # Title Page
-
+![](../img/hotseatlogo.png)
 ### Game Name
 Hot Seat
 
