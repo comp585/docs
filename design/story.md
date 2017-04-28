@@ -1,10 +1,13 @@
 # Story and Narrative
 
 ### Back story
-- N/A
+N/A
+
 ### Plot elements
-- N/A
+N/A
+
 ### Game story progression
-- N/A
+N/A
+
 ### Cut scenes
-- GIFs between various game states.
+GIFs between various game states.
