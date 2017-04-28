@@ -1,4 +1,4 @@
-# Characters.
+# Characters
 
 1. For each character
 	1. Back story
