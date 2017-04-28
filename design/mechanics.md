@@ -1,7 +1,6 @@
 # Mechanics
 
 ### Rules
-Include both implicit and explicit rules.
 - Every player must choose a game piece.
 - Previous teller must choose topic.
 ![](../img/topicselection.png)
@@ -19,16 +18,16 @@ Include both implicit and explicit rules.
 - The first player to achieve a set number of points(number of players + 1) wins.
 
 ### Model of the game universe.
-Think of it as a simulation of a world, how do all the pieces
-interact?
+**Think of it as a simulation of a world, how do all the pieces
+interact?**
 - Players take turns being the teller every new round, as the game loops through the players in the order that they input their game piece choice.
 
 ### Physics
-How does the physical universe work?
+**How does the physical universe work?**
 N/A
 
 ### Economy
-What is the economy of the game? How does it work?
+**What is the economy of the game? How does it work?**
 - Point system
 - The first player to achieve a set number of points(number of players + 1) wins.
 
@@ -36,24 +35,23 @@ What is the economy of the game? How does it work?
 N/A
 
 ### Objects
-How to pick them up and move them.
 - Tap button for topic selection, hiding instructions, choosing game piece, choosing truth verdict, and continuing through game
 - Scroll through topics to view more options
 
 ### Actions
-Including whatever switches and buttons are used, interacting with objects, and
-what means of communication are used.
+**Including whatever switches and buttons are used, interacting with objects, and
+what means of communication are used.**
 - Buttons are pressed to select options displayed on screen(topic select, truth verdict, choose game piece, continuing).
 - Message is sent at the beginning of each new round to display who is the teller and how many points each player has.
 
 ### Combat
-If there is combat or even conflict, how is this specifically modeled?
+**If there is combat or even conflict, how is this specifically modeled?**
 
 N/A
 
 ### Screen Flow
-How each screen is related to every other and a description of the purpose
-of each screen.
+**How each screen is related to every other and a description of the purpose
+of each screen**
 - Get started screen is shown the first time a user starts to interact.
 ![](../img/getstarted.PNG)
 - Detailed instructions are shown when bot is restarted.
@@ -61,7 +59,7 @@ of each screen.
 - Buttons are displayed for players to play game.
 
 ### Game Options
-What are the options and how do they affect game play?
+**What are the options and how do they affect game play?**
 Flow of Gameplay:
 - User that starts can input number of players
 - Players can choose a unique game piece
@@ -70,5 +68,6 @@ Flow of Gameplay:
 - Players can at any time press "New Game" in the bottom menu to restart
 - Players can at any time press "Restart Bot" in the bottom menu to restart and receive gameplay instructions.
 - Progress is saved in the game server at all points.
+
 ### Cheats and Easter Eggs
 N/A
