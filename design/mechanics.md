@@ -53,7 +53,7 @@ N/A
 **How each screen is related to every other and a description of the purpose
 of each screen**
 - Get started screen is shown the first time a user starts to interact.
-![](../img/getstarted.PNG)
+<img src="../img/getstarted.PNG" width="360">
 - Detailed instructions are shown when bot is restarted.
 - Messages are sent throughout game to notify/inform players of game information.
 - Buttons are displayed for players to play game.
