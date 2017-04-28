@@ -17,8 +17,8 @@
 - N/A
 
 ### Control System
-How does the game player control the game? What are the specific
-commands?
+**How does the game player control the game? What are the specific
+commands?**
 - Player presses buttons that are shown after each game state.
 - Player can press buttons in the menu to restart the game, with the option of showing game logic information.
 
