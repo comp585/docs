@@ -29,4 +29,5 @@ intended social impact.**
 **How will the game be inserted into a pedagogical scenario or how will it
 be used in training, therapy, rehabilitation, etc?**
 
-- Can be used for dating, interviewing, networking and other group settings.
+- Can be used for dating, interviewing, networking and other group settings
+  where asking good questions and listening are critical skills.
