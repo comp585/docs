@@ -11,3 +11,10 @@
 ### Artificial Intelligence Use in Opponent and Enemy
 
 ### Non-combat and Friendly Characters
+Bot
+	1. N/A
+	2. Friendly
+	3. N/A
+	4. Provides user with useful questions that could be used in a variety of circumstances(on a date, in an interview, etc.).
+	5. N/A
+	6. N/A
