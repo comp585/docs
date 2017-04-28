@@ -1,10 +1,10 @@
-# Title Page
+# Hot Seat
 ![](../img/hotseatlogo.png)
 ### Game Name
-Hot Seat
+**Hot Seat**
 
 ### Tag line
-Warm Intros
+*Warm Intros*
 
 ### Team
 - Dong Yeop Lee
@@ -13,4 +13,4 @@ Warm Intros
 - Sam McCormick
 
 ### Date of last update
-4/21/17
+4/27/17
