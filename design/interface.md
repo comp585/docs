@@ -6,6 +6,7 @@
 - User can swipe up from the bottom of the screen to view the entire menu.
 
 ####  Menus
+![](../img/menu.png)
 - Menu located at the bottom of the screen, accessed by swiping up from the bottom of the screen.
 - Consists of buttons showing "New Game", "Restart Bot", "Send us Feedback!".
 - "New Game" button starts the current game over, regardless of game state, and prompts the user to choose number of players.
@@ -29,3 +30,4 @@ commands?
 
 ### Help System
 - Restart bot button at bottom launches a tutorial before a new game to help the user understand the game logic.
+![](../img/getstarted.PNG)
