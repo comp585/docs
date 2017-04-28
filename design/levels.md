@@ -1,17 +1,9 @@
 # Levels
 
-1. General description of how levels are used. If they are very similar, the detailed level
-descriptions need not be very long.
+- Rounds are used to switch between players, rotating between them to be the teller on the hot seat or be an investigator.
 
-2. For each level
-	1. Synopsis
-	2. Required introductory material and how it is provided
-	3. Objectives
-	4. Details of what happens in the level
-		1. Map
-		2. Critical path that the player needs to take
-		3. Important and incidental encounters
+- Each round provides the round number, as well as an overview of the number of points that each player has.
 
-3. Is there a training level
+- If the bot is interacted with for the first time, or it is restarted, there is a tutorial dialogue that explains the game logic to the user.
 
-4. Assessment – how are the knowledge, competencies that are being taught evaluated?
+- The players success is gauged on their number of points at the beginning of each new round.
