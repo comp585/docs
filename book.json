@@ -1,7 +1,14 @@
 {
   "gitbook": "3.2.2",
   "title": "COMP 585 Design Doc",
-  "plugins": ["edit-link", "prism", "-highlight", "github", "anchorjs"],
+  "plugins": [
+    "edit-link",
+    "prism",
+    "-highlight",
+    "github",
+    "anchorjs",
+    "youtube"
+  ],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/comp585/docs/tree/master",
