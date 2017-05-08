@@ -1,0 +1,464 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Mechanics · COMP 585 Design Doc</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-prism/prism.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="story.html" />
+    
+    
+    <link rel="prev" href="gameplay.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="title.html">
+            
+                <a href="title.html">
+            
+                    
+                    Title Page
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="overview.html">
+            
+                <a href="overview.html">
+            
+                    
+                    Game Overview
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="gameplay.html">
+            
+                <a href="gameplay.html">
+            
+                    
+                    Gameplay
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.5" data-path="mechanics.html">
+            
+                <a href="mechanics.html">
+            
+                    
+                    Mechanics
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="story.html">
+            
+                <a href="story.html">
+            
+                    
+                    Story and Narrative
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="gameworld.html">
+            
+                <a href="gameworld.html">
+            
+                    
+                    Game World
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="characters.html">
+            
+                <a href="characters.html">
+            
+                    
+                    Characters
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="levels.html">
+            
+                <a href="levels.html">
+            
+                    
+                    Levels
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="interface.html">
+            
+                <a href="interface.html">
+            
+                    
+                    Interface
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../kickstarter.html">
+            
+                <a href="../kickstarter.html">
+            
+                    
+                    Kickstarter
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../privacy.html">
+            
+                <a href="../privacy.html">
+            
+                    
+                    Privacy
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Mechanics</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="mechanics">Mechanics</h1>
+<h3 id="rules">Rules</h3>
+<ul>
+<li>Every player must choose a game piece.</li>
+<li>Previous teller must choose topic.
+<img src="../img/topicselection.png" alt=""></li>
+<li>The teller should press hide when secretly shown their directions.
+<img src="../img/hide.PNG" alt=""></li>
+<li>The teller should show the question to all other players. </li>
+<li>Teller and investigator(s) have unlimited time to elaborate the story or ask follow up questions respectively.</li>
+<li>If there are more than two players, the investigators must work together to come to a consensus about whether the teller is telling the truth or lying. Then the teller will input their guess.
+<img src="../img/truthverdict.PNG" alt=""></li>
+<li>If the investigator(s) are able to guess correctly if the teller is telling the truth or lie, the investgator(s) earn a point.</li>
+<li>If the investigator(s) guess incorrectly, the teller gets a point.</li>
+<li>After the investigator(s) guess, a new player is placed on the hot seat and becomes the teller.</li>
+<li>The previous teller gets to choose the next topic for the new teller to answer.
+<img src="../img/roundview.PNG" alt=""></li>
+<li>The first player to achieve a set number of points (<em>number of players + 1</em>) wins.</li>
+</ul>
+<h3 id="model-of-the-game-universe">Model of the game universe.</h3>
+<p><strong>Think of it as a simulation of a world, how do all the pieces
+interact?</strong></p>
+<ul>
+<li>Players take turns being the teller every new round, as the game loops through the players in the order that they input their game piece choice.</li>
+</ul>
+<h3 id="physics">Physics</h3>
+<p><strong>How does the physical universe work?</strong>
+N/A</p>
+<h3 id="economy">Economy</h3>
+<p><strong>What is the economy of the game? How does it work?</strong></p>
+<ul>
+<li>Point system</li>
+<li>The first player to achieve a set number of points (<em>number of players + 1</em>) wins.</li>
+</ul>
+<h3 id="character-movement-in-the-game">Character movement in the game</h3>
+<p>N/A</p>
+<h3 id="objects">Objects</h3>
+<ul>
+<li>Tap button for topic selection, hiding instructions, choosing game piece, choosing truth verdict, and continuing through game</li>
+<li>Scroll through topics to view more options</li>
+</ul>
+<h3 id="actions">Actions</h3>
+<p><strong>Including whatever switches and buttons are used, interacting with objects, and
+what means of communication are used.</strong></p>
+<ul>
+<li>Buttons are pressed to select options displayed on screen(topic select, truth verdict, choose game piece, continuing).</li>
+<li>Message is sent at the beginning of each new round to display who is the teller and how many points each player has.</li>
+</ul>
+<h3 id="combat">Combat</h3>
+<p><strong>If there is combat or even conflict, how is this specifically modeled?</strong></p>
+<p>N/A</p>
+<h3 id="screen-flow">Screen Flow</h3>
+<p><strong>How each screen is related to every other and a description of the purpose
+of each screen</strong></p>
+<ul>
+<li>Get started screen is shown the first time a user starts to interact.
+<img src="../img/getstarted.PNG" width="360"></li>
+<li>Detailed instructions are shown when bot is restarted.</li>
+<li>Messages are sent throughout game to notify/inform players of game information.</li>
+<li>Buttons are displayed for players to play game.</li>
+</ul>
+<h3 id="game-options">Game Options</h3>
+<p><strong>What are the options and how do they affect game play?</strong>
+Flow of Gameplay:</p>
+<ul>
+<li>User that starts can input number of players</li>
+<li>Players can choose a unique game piece</li>
+</ul>
+<h3 id="replaying-and-saving">Replaying and saving</h3>
+<ul>
+<li>Players can at any time press &quot;New Game&quot; in the bottom menu to restart</li>
+<li>Players can at any time press &quot;Restart Bot&quot; in the bottom menu to restart and receive gameplay instructions.</li>
+<li>Progress is saved in the game server at all points.</li>
+</ul>
+<h3 id="cheats-and-easter-eggs">Cheats and Easter Eggs</h3>
+<p>N/A</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="gameplay.html" class="navigation navigation-prev " aria-label="Previous page: Gameplay">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="story.html" class="navigation navigation-next " aria-label="Next page: Story and Narrative">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Mechanics","level":"1.5","depth":1,"next":{"title":"Story and Narrative","level":"1.6","depth":1,"path":"design/story.md","ref":"design/story.md","articles":[]},"previous":{"title":"Gameplay","level":"1.4","depth":1,"path":"design/gameplay.md","ref":"design/gameplay.md","articles":[]},"dir":"ltr"},"config":{"plugins":["edit-link","prism","-highlight","github","anchorjs","youtube"],"styles":{"website":"build/gitbook.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"prism":{},"youtube":{},"github":{"url":"https://github.com/comp585/docs"},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edit This Page","base":"https://github.com/comp585/docs/tree/master"},"theme-default":{"styles":{"website":"build/gitbook.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchorjs":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"COMP 585 Design Doc","gitbook":"3.2.2"},"file":{"path":"design/mechanics.md","mtime":"2017-05-08T18:04:18.327Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-05-08T18:06:12.554Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.1.1/anchor.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-anchorjs/anchor-style.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
